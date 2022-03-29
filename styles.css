@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Mono&display=swap');
+
+* {
+    font-family: 'Red Hat Mono', monospace;
+    background: #dde0ab;
+    
+
+
+}
+
+#container {
+    display: flex; 
+    flex-direction: row;
+    padding: 5x;
+    list-style: none;
+    
+    
+    
+}
+
+.navbar {
+    display: flex;
+    flex-direction: row;
+    margin: 5px;
+    
+
+    
+    
+}
+
+
+
+div {
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    padding-right: 420px;
+   
+    
+    
+}
+
+h1 {
+    display: block;
+    padding-left: 620px;
+}
+
+p {
+    display: block;
+    padding-left: 550px;
+
+}
+
+.test {
+    background-color: black;
+    border: #dde0ab 2px solid;
+    display: inline-block;
+    position: absolute;
+}
